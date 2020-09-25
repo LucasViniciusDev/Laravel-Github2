@@ -7,7 +7,7 @@ Você poderá listar os usuários do **Github**, buscar pelo nome de usuário, e
 
 Projeto foi desenvolvido em **Laravel** utilizando a API do **Github**. Para a criação das views foi utilizado o **Blade Template** do Laravel, **Bootstrap** e **JQuery**.
 
-As requisições HTTP são feitas no front-end utilizando o **fetch** do **JavaScript**.
+As requisições HTTP são feitas no **front-end** utilizando o **fetch** do **JavaScript**.
 
 Instalação
 ------
@@ -57,4 +57,4 @@ Screenshots
 Laravel Github
 ------
 Link: https://gitlab.com/lucas240596/laravel-github<br>
-Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no back-end utilizando o **CURL**.
+Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no **back-end** utilizando o **CURL**.
