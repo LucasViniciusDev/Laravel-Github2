@@ -1,0 +1,52 @@
+@import "~bootstrap/scss/bootstrap";
+@import "./mixins.scss";
+
+.header-link {
+    color: #fff !important;
+    &:hover{
+        color: rgb(220, 220, 220) !important;
+    }
+}
+
+.input-search {
+    color: #000 !important;
+    background-color: rgba(141, 141, 141, .5) !important;
+    border: none !important;
+    width: 250px !important;
+    transition: width .2s;
+
+    &:focus{
+        background-color: #fff !important;
+        width: 350px !important;
+        transition: width .2s;
+    }
+}
+
+.bg-grey {
+    background-color: rgb(245, 245, 245) !important;
+}
+
+.avatar-img {
+    border-radius: 100% !important;
+    width: 200px !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #d6d6d6;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
