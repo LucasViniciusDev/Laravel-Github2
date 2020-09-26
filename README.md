@@ -49,12 +49,19 @@ Resultado
 
 Screenshots
 
-![Alt text](/../-/raw/master/screenshots/001.png?raw=true "001")
-![Alt text](/../-/raw/master/screenshots/002.png?raw=true "002")
-![Alt text](/../-/raw/master/screenshots/003.png?raw=true "003")
-![Alt text](/../-/raw/master/screenshots/004.png?raw=true "004")
+**Listagem de Usuários**
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/Laravel-Github2/master/screenshots/001.PNG "001")
+
+**Pesquisa de Usuário**
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/Laravel-Github2/master/screenshots/002.PNG "002")
+
+**Repositórios do Usuário**
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/Laravel-Github2/master/screenshots/003.PNG "003")
+
+**Clonar Projeto**
+![Alt text](https://raw.githubusercontent.com/LucasViniciusDev/Laravel-Github2/master/screenshots/004.PNG "004")
 
 Laravel Github
 ------
-Link: https://gitlab.com/lucas240596/laravel-github<br>
-Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no **back-end** utilizando o **CURL**.
+Este outro projeto foi desenvolvido de forma parecida, com diferença que as chamadas HTTP foram feitas no **back-end** utilizando o **CURL**.<br>
+Link do Projeto: https://github.com/LucasViniciusDev/Laravel-Github
